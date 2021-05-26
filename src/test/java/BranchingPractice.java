@@ -6,5 +6,6 @@ public class BranchingPractice {
         //added gitignore file
         //made initial commit by keeping track of all file
         //shared on github
+
     }
 }
