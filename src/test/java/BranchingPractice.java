@@ -1,14 +1,10 @@
 public class BranchingPractice {
-
     public static void main(String[] args) {
-   //created new project
-        // enabled version control
-        //added gitignore file
-        //made initial commit by keeping track of all file
-        //shared on github
-
-        //reviewing on new branch
-
+        // created new project
+        //enable vcs
+        //added .gitignorewith .idea, target, .iml
+        //made initial commit by keepinh track of all file
+        //shared project on github
 
     }
 }
